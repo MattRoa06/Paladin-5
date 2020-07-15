@@ -43,7 +43,8 @@ nav ul{
 nav li{
     display: inline-block;
     margin-left: 70px;
-    padding-top: 25px;
+    padding-top: 14px;
+    padding-bottom: 5px;
 }
 nav a {
     color: black;
